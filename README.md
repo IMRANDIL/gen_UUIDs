@@ -13,7 +13,7 @@ npm install @imrandil/gen_uuid
 ## Usage
 
 ```javascript
-const generateUUID = require('gen_uuid');
+const generateUUID = require('@imrandil/gen_uuid');
 
 // Generate a UUID
 const uuid = generateUUID();
