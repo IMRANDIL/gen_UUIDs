@@ -28,6 +28,15 @@ This package provides a function `generateUUID()` that generates a unique UUID (
 
 The function uses a cryptographically insecure method to generate UUIDs and may produce collisions if used in applications requiring strong uniqueness guarantees.
 
+
+## Use Case
+
+- **Session Management**: Generate unique identifiers for user sessions in web applications.
+- **Database Primary Keys**: Use UUIDs as primary keys in databases to ensure unique identifiers for each record.
+- **Message Queue Identifiers**: Generate UUIDs as identifiers for messages in message queue systems to ensure each message is uniquely identified.
+- **Distributed Systems**: Use UUIDs to uniquely identify resources in distributed systems and microservices architectures.
+
+
 ## API
 
 ### `generateUUID()`
