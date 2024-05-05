@@ -7,7 +7,7 @@ A simple npm package for generating unique UUIDs.
 You can install this package using npm:
 
 ```
-npm install gen_uuid
+npm install @imrandil/gen_uuid
 ```
 
 ## Usage
