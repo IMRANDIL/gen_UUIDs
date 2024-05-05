@@ -1,6 +1,6 @@
 {
   "name": "@imrandil/gen_uuid",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple npm package for generating unique UUIDs.",
   "main": "index.js",
   "directories": {
@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/IMRANDIL/gen_UUIDs/issues"
   },
-  "homepage": "https://github.com/IMRANDIL/gen_UUIDs#readme",
+  "homepage": "https://github.com/IMRANDIL/gen_UUIDs",
   "devDependencies": {
     "mocha": "^9.1.0"
   }
