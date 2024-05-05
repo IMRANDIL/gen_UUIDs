@@ -21,6 +21,10 @@
     "type": "git",
     "url": "git+https://github.com/IMRANDIL/gen_UUIDs.git"
   },
+  "bugs": {
+    "url": "https://github.com/IMRANDIL/gen_UUIDs/issues"
+  },
+  "homepage": "https://github.com/IMRANDIL/gen_UUIDs#readme",
   "devDependencies": {
     "mocha": "^9.1.0"
   }
