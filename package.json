@@ -1,0 +1,27 @@
+{
+  "name": "gen_uuid",
+  "version": "1.0.0",
+  "description": "A simple npm package for generating unique UUIDs.",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "keywords": [
+    "uuid",
+    "generate",
+    "unique"
+  ],
+  "author": "Ali Imran Adil",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IMRANDIL/gen_UUIDs.git"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.0"
+  }
+}
